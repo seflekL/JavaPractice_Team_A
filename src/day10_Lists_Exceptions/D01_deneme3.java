@@ -23,9 +23,16 @@ public class D01_deneme3 {
 
             }
         }
+
+
+        while
+        (!(uzunluk < 10000)){
+
+            System.out.println(str.charAt(uzunluk));
+            uzunluk++;
+        }
+
         return uzunluk;
-
-
     }
 
 }
